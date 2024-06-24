@@ -1,0 +1,47 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "We have a special event this Friday. Don't miss out!",
+        "linkText": "Learn More"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "announcement_link_text": "Read more",
+        "announcement_link_url": "/updates",
+        "announcement_text": "Announcing our new feature updates.",
+        "cta_button_link": "/join",
+        "cta_button_text": "Join Now",
+        "secondary_button_link": "/learn-more",
+        "secondary_button_text": "Learn More",
+        "subtitle": "Easily learn and share interesting technical insights, bridging connections among tech enthusiasts.",
+        "title": "Connect and Grow with Knowledge"
+      }
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Elevate Your Code Crafting with Technie",
+  "subtitle": "Join the community of engineers sharing inspirational insights and mastering technical excellence."
+}
